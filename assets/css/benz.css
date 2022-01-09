@@ -1,0 +1,287 @@
+
+body{
+    margin: 0px;
+}
+ul, ol{
+   padding: 0px!important;
+   margin: 0px!important;
+   list-style: none;
+
+}
+a{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    height: 110px;
+    background: black;
+    display: flex;
+}
+.column-header{
+display: flex;
+}
+.column-header img{
+    padding: 20px 20px;
+    width: 60px;
+    height: 60px;
+}
+.column-header a{
+        padding-top: 56px;
+        padding-left: 40px;
+}
+.column-headerright{
+    display: flex;
+    align-items: flex-end;
+    width: 78%;
+    height: 100%;
+    flex-direction: column;
+}
+.row-headertop{
+    display: flex;
+    width: 100%;
+    /* height: 46%; */
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: flex-end;
+}
+.row-headerbutton{
+    display: flex;
+    align-items: flex-end;
+    height: 100px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+.super-menu{
+    padding: 20px;
+}
+#d{
+    padding-right: 38px;
+}
+span{
+    display: inline-block;
+    padding-top: 10px;
+}
+
+main{
+    height: 5000px;
+    background: black;
+}
+.slider{
+    width: 100%;
+}
+.slider img{
+    width: 100%;
+}
+.benz{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 198px;
+    right: 90px;
+    z-index: 100;
+}
+.benz1{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 160px;
+    right: 80px;
+}
+.benz2{
+    width: 150;
+    height: 60px;
+    position: absolute;
+    bottom: 135px;
+    right: 100px;
+}
+.menu-benz{
+    position: absolute;
+    top: 40%;
+    text-align: center;
+    font-size: xx-large;
+    color: rgba(0, 0, 0, 0.438);
+    font-family: initial;
+    left: 40px;
+}
+.box{
+    width: 100%;
+    height: 95px;
+    background: rgb(24, 23, 23);
+    margin: -5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#search{
+    width: 81%;
+    height: 39px;
+    border: none;
+    background: #efefef;
+    padding: 0px 10px;
+}
+.btn{
+    width: 5%;
+    height: 39px;
+    border: none;
+}
+.container{
+    width: 100%;
+    background: black;
+    height: 700px;
+    color: white; 
+}
+.super{
+    margin-top: -22px;
+}
+.super h1{
+  text-align: center; 
+}
+.divp{
+    width: 50%;
+    margin: auto;
+}
+.p{
+    text-align: center;
+}
+.pb{
+    margin-bottom: -5%;
+}
+.btnn{
+    width: 230px;
+    height: 40px;
+    background: rgb(97, 152, 216);
+    color: rgb(216 207 207);
+    font-family: inherit;
+    border: 1px solid #b7bac4;
+    border-radius: 5px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 42px;
+}
+.div1 img{
+    width: 270px;
+    height: 140px;
+}
+.div1:hover{
+    border-bottom: 8px solid #42bbebc0;
+}
+
+.div2{
+    margin-left: 15px;
+}
+.div2 img{
+    width: 270px;
+    height: 140px; 
+}
+.div2:hover{
+    border-bottom: 8px solid #42bbebc0;
+}
+.div3{
+    margin-left: 15px;
+}
+.div3 img{
+    width:  270px;
+    height: 140px; 
+}
+.div3:hover{
+    border-bottom: 8px solid #42bbebc0;
+}
+.container1{
+    width: 200%;
+    height: 201px;
+   
+}
+.super-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+    height: 205px;
+    list-style: none;
+}
+.box-text{
+    padding: 30px;
+}
+.super{
+    padding: 50px;
+}
+.welcome{
+    width: 58%;
+    margin: auto;
+}
+.img3{
+    right: 424px;
+}
+.img4{
+    top: 238px;
+    right: 2px;
+}
+.img5{
+    top: 476px;
+    right: 2px;
+}
+.img6{ 
+    top: 711px;
+}
+.img7{
+    top: 711px;
+    right: 424px;
+}
+.img8{
+    top: 713px;
+    right: 2px;
+}
+.img9{
+    top: 200%;
+}
+.img10{
+    top: 950px;
+    right: 1px;
+}
+.img11{
+    top: 1421px;
+}
+.img12{
+    top: 1422px;
+    left: 421px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.but{
+    right: 50%;
+    top: 1700px;
+}
+.show-more{
+    border: none;
+    color: #aca9a9;
+    background: #444141bd;
+    padding: 5px;
+    width: 125px;
+}
+.div{
+    color: white;
+}
+.brand-group{
+    min-height: 1800px;
+}
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 150px;
+    background: black;
+}

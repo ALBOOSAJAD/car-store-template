@@ -1,0 +1,6 @@
+new project: git init
+
+ git add .
+ git commit -m "write a messege"
+ git push
+( git push -u origin main)

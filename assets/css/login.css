@@ -1,0 +1,63 @@
+body{
+    direction: rtl;
+    margin: 0px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    background-image: url(../project/assets/images/mercedes-benz-the-all-electric-eqe-2021-v295-3400x1440.jpeg);
+    background-position: center;
+    padding: 30px 30px;
+}
+.box-form{
+    width: 50%;
+    height: 400px;
+    border: 2px solid rgb(4, 85, 45);
+    background: rgba(128, 128, 128, 0.096);
+    margin: 20px 200px;
+    box-shadow: 0px 2px 16px 6px #00000059;
+
+}
+div img{
+    padding: 27px 269px;
+}
+p{
+    text-align: center;
+    font-size: x-large;
+    color: rgb(7, 7, 7);
+}
+#inp{
+    width: 300px;
+    height: 31px;
+    border: 1px solid #3d89b6cf;
+    background: #092f56c7;
+    padding: 4px 9px;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 141px;
+}
+.btn{
+    border-radius: 4px;
+    color: #0b0909db;
+    background: #ece3e378;
+    margin: 20px 116px;
+    box-shadow: inset 0px 1px 20px 0px #73c472;
+    width: 90px;
+    height: 37px;
+}
+.benz{
+    margin: -38px 271px;
+    display: inline-block;
+    
+}
+.checkbox{
+    width: 13px;
+    height: 12px;
+    box-shadow: inset 0px 0px 9px 4px #2a7171;
+    color: #1e2222;
+    border: 1px solid;
+    color: black;
+}
