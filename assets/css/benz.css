@@ -6,12 +6,14 @@ ul, ol{
    padding: 0px!important;
    margin: 0px!important;
    list-style: none;
+   text-decoration: none;
 
 }
 a{
     text-decoration: none;
     margin: 0px;
     padding: 0px;
+    list-style: none;
 }
 header{
     height: 110px;
@@ -361,6 +363,20 @@ main{
     background: black;
     opacity: 60%;
     top: 138px;
+}
+.titr{
+    color: whitesmoke;
+    font-size: 24pt;
+    display: flex;
+    justify-content: space-around;
+    font-family: serif;
+}
+.titr2{
+    color: rgb(136, 134, 134);
+    font-size: 11pt;
+    display: flex;
+    justify-content: space-around;
+    font-family: serif;
 }
 
 
