@@ -271,13 +271,97 @@ main{
 .brand-group{
     min-height: 1800px;
 }
-
-
-
-
-
-
-
+.cover{
+    width: 836px;
+    height: 100px;
+    background: black;
+    opacity: 50%;
+    bottom: 0;
+}
+.cover1{
+    width: 426px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover2{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover3{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover4{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover5{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover6{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover7{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover8{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover9{
+    width: 842px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+   bottom: 0;
+}
+.cover10{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover11{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
+.cover12{
+    width: 420px;
+    height: 100px;
+    background: black;
+    opacity: 60%;
+    top: 138px;
+}
 
 
 
