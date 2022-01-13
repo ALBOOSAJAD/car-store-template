@@ -379,9 +379,18 @@ main{
     font-family: serif;
 }
 
-
-
 footer{
     height: 150px;
     background: black;
+}
+.stay{
+    color: white;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.text-light{
+    color: white;
+    width: 39%;
+    font-size: 11pt;
+    width: 39%;
+  
 }
