@@ -7,7 +7,6 @@ ul, ol{
    margin: 0px!important;
    list-style: none;
    text-decoration: none;
-
 }
 a{
     text-decoration: none;
@@ -68,7 +67,7 @@ span{
 }
 
 main{
-    height: 5000px;
+    height: 4500px;
     background: black;
 }
 .slider{
@@ -387,10 +386,21 @@ footer{
     color: white;
     font-family: 'Times New Roman', Times, serif ;
 }
-.text-light{
-    color: white;
-    width: 39%;
+.follow{
+    color: rgb(119, 118, 118);
     font-size: 11pt;
-    width: 39%;
-  
+    width: 39%!important;
+}
+.fab{
+    font-size: 28pt;
+}
+.box-brand{
+    color: gray;
+    padding: 20px;
+}
+.this{
+    color: gray;
+    padding: 30px;
+    font-size: 10pt;
+    font-style: italic;
 }
